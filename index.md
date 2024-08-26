@@ -15,11 +15,20 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+# Hossein's first CS193 Homework
+
+### My favorite things about CS 193:
+- The funny memes on the slides
+- The fact that attendance is taken at the end and not at the start
+- The chill stress-free enviornment
+
 - Bulleted
 - List
 
 1. Numbered
 2. List
+
+
 
 **Bold** and _Italic_ and `Code` text
 
